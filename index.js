@@ -1,0 +1,31 @@
+const states = {
+  'MA': 'Maranhão',
+  'PI': 'Piaui',
+  'CE': 'Ceará',
+  'RN': 'Rio Grande do Norte',
+  'PB': 'Paraíba',
+  'PE': 'Pernambuco',
+  'AL': 'Alagoas',
+  'SE': 'Sergipe',
+  'BA': 'Bahia',
+  'MG': 'Minas Gerais',
+  'RJ': 'Rio de Janeiro',
+  'ES': 'Espirito Santo',
+  'SP': 'São Paulo',
+  'PR': 'Paraná',
+  'SC': 'Santa Catarina',
+  'RS': 'Rio Grande do Sul',
+  'MS': 'Mato Grosso do Sul',
+  'MT': 'Mato Grosso',
+  'DF': 'Distrito Federal',
+  'GO': 'Goiás',
+  'AC': 'Acre',
+  'AP': 'Amapá',
+  'AM': 'Amazonas',
+  'TO': 'Tocantins',
+  'PA': 'Pará',
+  'RR': 'Roraima',
+  'RO': 'Rondônia'
+}
+
+module.exports = states
