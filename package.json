@@ -1,0 +1,25 @@
+{
+  "name": "brazilian-states",
+  "version": "1.0.0",
+  "description": "Brazilian States provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaosdoctor/brazilian-states.git"
+  },
+  "keywords": [
+    "brazil",
+    "brazilian",
+    "states",
+    "provider"
+  ],
+  "author": "Lucas Santos <lhs.santoss@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khaosdoctor/brazilian-states/issues"
+  },
+  "homepage": "https://github.com/khaosdoctor/brazilian-states#readme"
+}
