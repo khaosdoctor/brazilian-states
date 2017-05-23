@@ -1,5 +1,5 @@
 {
-  "name": "brazilian-states",
+  "name": "brazilian-states-provider",
   "version": "1.0.0",
   "description": "Brazilian States provider",
   "main": "index.js",
